@@ -1,1 +1,1 @@
-Directory for metadata.
+Directory for test dataset.
