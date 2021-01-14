@@ -1,1 +1,1 @@
-Directory for metadata.
+Directory for training dataset (authentic signatures).
